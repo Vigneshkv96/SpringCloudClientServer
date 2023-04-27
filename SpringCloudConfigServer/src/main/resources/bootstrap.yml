@@ -7,5 +7,5 @@ spring:
         composite:
           -
             type: git
-            uri: https://github.com/Vigneshkv96/springCloudConfig/
+            uri: https://github.com/Vigneshkv96/CloudApp/
 
