@@ -1,0 +1,3 @@
+welcome:
+  message:  welcome to Dev Env in local
+  env: DEV
